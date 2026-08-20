@@ -23,7 +23,7 @@ hand-building charts and tasks takes hours.
 
 ## Output
 
-[Live example: Describing Visual Data — C1](https://hailorlem.github.io/taimas-visual-data)
+[Live example: Describing Visual Data: C1](https://hailorlem.github.io/taimas-visual-data)
 ([repo](https://github.com/HailorLEM/taimas-visual-data))
 
 ## Stack
